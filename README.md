@@ -4,7 +4,7 @@
 
 - [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/R%E1%BA%BD%20nh%C3%A1nh/1.pas) Viết chương trình nhập vào số nguyên n, kiểm tra số đó là số chẵn hay số lẻ. In kết quả ra màn hình.
 
-- [Bài 2:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/R%E1%BA%BD%20nh%C3%A1nh/2.pas) Viết chương trình giải phương trình bậc 2 ax+by+c=0. Các số a, b, c được nhập từ bàn phím.
+- [Bài 2:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/R%E1%BA%BD%20nh%C3%A1nh/2.pas) Viết chương trình giải phương trình bậc 2 ax^2+bx+c=0. Các số a, b, c được nhập từ bàn phím.
 
 ## Vòng lặp: For, while
 
