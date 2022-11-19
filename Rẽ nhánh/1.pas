@@ -6,5 +6,5 @@ begin
 	if (n mod 2 = 0) then
 		writeln(n,' la so chan')
 	else
-    writeln(n,' la so le');
+    		writeln(n,' la so le');
 end.
