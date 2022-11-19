@@ -11,6 +11,7 @@ begin
 	kq:=x;
 	ok:=kq;
 end;
+
 // Ham tim tong cac uoc |a+b|
 function yo(c,d:integer):integer;
 var i,tong,tonguoc:integer;
@@ -24,6 +25,7 @@ begin
 		end;
 	yo:=tonguoc;
 end;
+
 // Chuong trinh chinh
 var
 	a,ucln,b,tong,phe,tich,hieu:integer;
