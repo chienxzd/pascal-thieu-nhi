@@ -10,8 +10,8 @@
 
 - [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/V%C3%B2ng%20l%E1%BA%B7p/1.pas) Viết chương trình in ra bảng cửu chương từ 2 tới 9 sử dụng vòng lặp for.
 
-## Thập cẩm: Vận dụng rẽ nhánh, vòng lặp, tạo hàm, mảng,...
+## Hỗn hợp: Vận dụng rẽ nhánh, vòng lặp, tạo hàm, mảng,...
 
-- [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/Th%E1%BA%ADp%20c%E1%BA%A9m/1.pas) Cho 2 số nguyên a,b được nhập từ bàn phím. Tính tổng, hiệu,tích, thương, ước chung lớn nhất, tổng các ước số dương của |a+b|.
+- [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/1.pas) Cho 2 số nguyên a,b được nhập từ bàn phím. Tính tổng, hiệu,tích, thương, ước chung lớn nhất, tổng các ước số dương của |a+b|.
 
-- [Bài 2:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/Th%E1%BA%ADp%20c%E1%BA%A9m/2.pas) Nhập số n từ bàn phím, kiểm tra xem số đó có phải là số nguyên tố hay không.
+- [Bài 2:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/2.pas) Nhập số n từ bàn phím, kiểm tra xem số đó có phải là số nguyên tố hay không.
