@@ -21,3 +21,5 @@
 - [Bài 3:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/3.pas) Tính tổng tất cả các chữ số của một số nguyên dương nhập từ bàn phím.
 
 - [Bài 4:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/4.pas) Nhập số n từ bàn phím, kiểm tra xem số đó có phải là số hoàn hảo không.
+
+- [Bài 5:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/5.pas) Nhập số n từ bàn phím, kiểm tra xem số đó có phải là số chính phương hay không.
