@@ -12,6 +12,10 @@
 
 - [Bài 2:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/V%C3%B2ng%20l%E1%BA%B7p/2.pas) Viết chương trình in ra bảng cửu chương từ 2 tới 9 sử dụng vòng lặp while.
 
+- [Bài 3:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/V%C3%B2ng%20l%E1%BA%B7p/3.pas) Viết chương trình nhập vào số nguyên n và tính tổng tất cả các số lẻ từ 0 đến n.
+
+- [Bài 4:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/V%C3%B2ng%20l%E1%BA%B7p/4.pas) Viết chương trình nhập vào số nguyên n và in ra màn hình là giai thừa n!.
+
 ## Hỗn hợp: Vận dụng rẽ nhánh, vòng lặp, tạo hàm, mảng,...
 
 - [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/1.pas) Cho 2 số nguyên a,b được nhập từ bàn phím. Tính tổng, hiệu,tích, thương, ước chung lớn nhất, tổng các ước số dương của |a+b|.
