@@ -6,8 +6,7 @@ begin
 	tongfun:=0;
 	for w:=1 to (x div 2) do
 		begin
-			if (x mod w = 0) then
-				tongfun:=tongfun+w;
+			if (x mod w = 0) then tongfun:=tongfun+w;
 		end;
 	tonguoc:=tongfun;
 end;
