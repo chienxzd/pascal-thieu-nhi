@@ -18,4 +18,5 @@ begin
 			n:=n div 10;
 		end;
 	writeln('Tong cac chu so = ',tong);
+	readln;
 end.

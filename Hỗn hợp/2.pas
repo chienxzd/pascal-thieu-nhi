@@ -2,7 +2,7 @@ var
 	i,n:integer;
 	kq:boolean;
 begin
-	write('Nhap so n can kiem tra: '); read(n);
+	write('Nhap so n can kiem tra: '); readln(n);
 	writeln('----------------------');
 	kq:=true;
 	if n<2 then kq:=false;
@@ -16,4 +16,5 @@ begin
 		writeln(n,' la so nguyen to')
 	else
 		writeln(n,' khong phai so nguyen to');
+	readln;
 end.
