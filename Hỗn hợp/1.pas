@@ -31,8 +31,8 @@ var
 	a,ucln,b,tong,phe,tich,hieu:integer;
 	thuong:real;
 begin
-	write('Nhap a: '); read(a);
-	write('Nhap b: '); read(b);
+	write('Nhap a: '); readln(a);
+	write('Nhap b: '); readln(b);
 	tong:=a+b;
 	tich:=a*b;
 	thuong:=a/b;
@@ -46,4 +46,5 @@ begin
 	writeln('UCLN la: ',ucln);
 	phe:=yo(a,b);
 	writeln('Tong cac cac uoc cua |a+b|: ',phe);
+	readln;
 end.
