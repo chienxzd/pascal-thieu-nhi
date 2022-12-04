@@ -11,4 +11,5 @@ begin
 		writeln(n,' la so chinh phuong')
 	else
 		writeln(n,' khong phai so chinh phuong');
+	readln;
 end.

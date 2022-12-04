@@ -1,7 +1,9 @@
+uses crt;
 var
 	a,b,c:real;
 	delta,x1,x2:real;
 begin
+	clrscr;
 	writeln('Chuong trinh giai phuong trinh bac 2');
 	writeln('--------------------------');
 	write('Nhap a: '); read(a);
@@ -29,4 +31,5 @@ begin
 			writeln('-----------------');
 			writeln('Phuong trinh vo nghiem');
 		end;
+	readln;
 end.

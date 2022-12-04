@@ -16,4 +16,5 @@ begin
 			b:=1;
 			a:=a+1;
 		end;
+	readln;
 end.

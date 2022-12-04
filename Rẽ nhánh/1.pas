@@ -7,4 +7,5 @@ begin
 		writeln(n,' la so chan')
 	else
     		writeln(n,' la so le');
+	readln;
 end.

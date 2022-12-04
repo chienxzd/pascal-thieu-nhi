@@ -11,4 +11,5 @@ begin
 				end;
 			writeln;
 		end;
+	readln;
 end.
