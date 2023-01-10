@@ -16,6 +16,10 @@
 
 - [Bài 4:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/V%C3%B2ng%20l%E1%BA%B7p/4.pas) Viết chương trình nhập vào số nguyên n và in ra màn hình là giai thừa n!.
 
+## String: Xâu
+
+- [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/String/1.pas) Cho xâu s và số nguyên k được nhập từ bàn phím. Bạn hãy viết chương trình in ra màn hình ký tự thứ k trong xâu s.
+
 ## Hỗn hợp: Vận dụng rẽ nhánh, vòng lặp, tạo hàm, mảng,...
 
 - [Bài 1:](https://github.com/yeuxacucodon/bai-tap-pascal/blob/main/H%E1%BB%97n%20h%E1%BB%A3p/1.pas) Cho 2 số nguyên a,b được nhập từ bàn phím. Tính tổng, hiệu,tích, thương, ước chung lớn nhất, tổng các ước số dương của |a+b|.
