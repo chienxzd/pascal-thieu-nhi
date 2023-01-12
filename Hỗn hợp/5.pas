@@ -4,7 +4,7 @@ var
 begin
 	write('Nhap n: '); read(n);
 	kq:=false;
-	for i:=0 to n do
+	for i:=0 to (n div 2) do
 		if sqr(i) = n then
 			kq:=true;
 	if kq=true then
