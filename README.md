@@ -27,3 +27,11 @@
 - [Bài 13: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/chinh_phuong.pas)Nhập số n từ bàn phím, kiểm tra xem số đó có phải là số chính phương hay không.
 
 - [Bài 14: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/cay_thong.pas)Nhập số n từ bàn phím, in ra tam giác từ 1 đến 9. Nếu qua 9 thì bắt đầu lại từ 1.
+
+- [Bài 15: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/A_Z.pas) Bạn hãy viết chương trình hiển thị ra màn hình các ký tự từ 'A' tới 'Z'.
+
+- [Bài 16: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/bao_nhieu_hoa.pas) Cho xâu s được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra màn hình số các ký tự in hoa trong xâu s.
+
+- [Bài 17: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/ki_tu_hoa.pas) Cho xâu s được nhập từ bàn phím. Bạn hãy viết chương trình chuyển các ký tự in thường trong xâu s thành in hoa và hiển thị xâu s ra màn hình.
+
+- [Bài 18: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/ki_tu_thuong.pas) Cho xâu s được nhập từ bàn phím. Bạn hãy viết chương trình chuyển các ký tự in hoa trong xâu s thành in thường và hiển thị xâu s ra màn hình.
