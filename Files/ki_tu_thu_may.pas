@@ -1,7 +1,7 @@
 uses crt;
 var
     s:string;
-    k:integer;
+    k:byte;
 begin
     clrscr;
     write('Nhap chuoi s: '); readln(s);

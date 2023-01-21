@@ -1,6 +1,6 @@
 uses crt;
 var
-    dem,i:integer;
+    dem,i:byte;
     s:string;
     c:char;
 begin
