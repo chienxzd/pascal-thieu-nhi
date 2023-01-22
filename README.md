@@ -35,3 +35,7 @@
 - [Bài 17: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/ki_tu_hoa.pas) Cho xâu s được nhập từ bàn phím. Bạn hãy viết chương trình chuyển các ký tự in thường trong xâu s thành in hoa và hiển thị xâu s ra màn hình.
 
 - [Bài 18: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/ki_tu_thuong.pas) Cho xâu s được nhập từ bàn phím. Bạn hãy viết chương trình chuyển các ký tự in hoa trong xâu s thành in thường và hiển thị xâu s ra màn hình.
+
+- [Bài 19: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/tang_dan.pas) Nhập vào ba số a, b, c từ bàn phím , in ra màn hình theo thứ tự tăng dần.
+
+- [Bài 20: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/nam_nhuan.pas) Kiểm tra một năm bất kỳ được nhập từ bàn phím có phải năm nhuận không.
