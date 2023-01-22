@@ -1,7 +1,9 @@
+uses crt;
 var
     year:integer;
     kq:boolean;
 begin
+    clrscr;
     write('Nhap nam: '); read(year);
     kq:=false;
     if year mod 100 = 0 then
