@@ -39,3 +39,5 @@
 - [Bài 19: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/tang_dan.pas) Nhập vào ba số a, b, c từ bàn phím , in ra màn hình theo thứ tự tăng dần.
 
 - [Bài 20: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/nam_nhuan.pas) Kiểm tra một năm bất kỳ được nhập từ bàn phím có phải năm nhuận không.
+
+- [Bài 21: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/sum_dau_cuoi.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra tổng của phần tử đầu tiên và cuối cùng trong mảng arr.
