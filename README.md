@@ -41,3 +41,7 @@
 - [Bài 20: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/nam_nhuan.pas) Kiểm tra một năm bất kỳ được nhập từ bàn phím có phải năm nhuận không.
 
 - [Bài 21: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/sum_dau_cuoi.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra tổng của phần tử đầu tiên và cuối cùng trong mảng arr.
+
+- [Bài 22: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/max_arr.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra phần tử lớn nhất trong mảng.
+
+- [Bài 23: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/tong_mang.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra tổng tất cả các phần tử trong mảng.
