@@ -5,13 +5,10 @@ begin
 	write('Nhap so n can kiem tra: '); readln(n);
 	writeln('----------------------');
 	kq:=true;
-	if n<2 then kq:=false;
-	i:=2;
-	while i<n do
-		begin
-			if (n mod i = 0) then kq:=false;
-			i:=i+1;
-		end;
+	if n<=1 then kq:=false;
+
+	for i:=2 to (n-1) do if (n mod i = 0) then kq:=false;
+
 	if kq=true then
 		writeln(n,' la so nguyen to')
 	else
