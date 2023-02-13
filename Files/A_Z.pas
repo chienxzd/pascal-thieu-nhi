@@ -1,9 +1,11 @@
-uses crt;
-var
-    i:char;
-begin
-    clrscr;
-    for i:='A' to 'Z' do
-        write(i,' ');
-    readln;
-end.
+
+Uses crt;
+
+Var 
+  i: char;
+Begin
+  clrscr;
+  For i:='A' To 'Z' Do
+    write(i,' ');
+  readln;
+End.
