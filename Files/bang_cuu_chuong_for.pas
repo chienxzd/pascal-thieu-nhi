@@ -1,15 +1,15 @@
-var
-	a,b:byte;
-begin
-	for a:=2 to 9 do
-		begin
-			writeln('Bang cuu chuong ',a);
-			writeln('------------------');
-			for b:=1 to 10 do
-				begin
-					writeln(a,' x ',b,' = ',a*b);
-				end;
-			writeln;
-		end;
-	readln;
-end.
+Var 
+  a,b: byte;
+Begin
+  For a:=2 To 9 Do
+    Begin
+      writeln('Bang cuu chuong ',a);
+      writeln('------------------');
+      For b:=1 To 10 Do
+        Begin
+          writeln(a,' x ',b,' = ',a*b);
+        End;
+      writeln;
+    End;
+  readln;
+End.

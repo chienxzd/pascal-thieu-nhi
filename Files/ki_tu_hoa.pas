@@ -1,11 +1,14 @@
-uses crt;
-var
-    s:string;
-    i:byte;
-begin
-    clrscr;
-    write('Nhap s: '); read(s);
-    for i:=1 to length(s) do if (s[i] >= 'a') and (s[i] <= 'z') then s[i] := chr(ord(s[i]) - 32);
-    writeln(s);
-    readln;
-end.
+Uses crt;
+
+Var 
+  s: string;
+  i: byte;
+Begin
+  clrscr;
+  write('Nhap s: ');
+  read(s);
+  For i:=1 To length(s) Do
+    If (s[i] >= 'a') And (s[i] <= 'z') Then s[i] := chr(ord(s[i]) - 32);
+  writeln(s);
+  readln;
+End.

@@ -1,17 +1,19 @@
-var
-	i,n:integer;
-	kq:boolean;
-begin
-	write('Nhap so n can kiem tra: '); readln(n);
-	writeln('----------------------');
-	kq:=true;
-	if n<=1 then kq:=false;
+Var 
+  i,n: integer;
+  kq: boolean;
+Begin
+  write('Nhap so n can kiem tra: ');
+  readln(n);
+  writeln('----------------------');
+  kq := true;
+  If n<=1 Then kq := false;
 
-	for i:=2 to (n-1) do if (n mod i = 0) then kq:=false;
+  For i:=2 To (n-1) Do
+    If (n Mod i = 0) Then kq := false;
 
-	if kq=true then
-		writeln(n,' la so nguyen to')
-	else
-		writeln(n,' khong phai so nguyen to');
-	readln;
-end.
+  If kq=true Then
+    writeln(n,' la so nguyen to')
+  Else
+    writeln(n,' khong phai so nguyen to');
+  readln;
+End.

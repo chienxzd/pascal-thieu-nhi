@@ -1,22 +1,23 @@
-var
-	n,sotachra,tong:integer;
-begin
-	repeat
-	write('Nhap n: '); read(n);
-	if n<0 then
-		begin
-			writeln('Ban da nhap sai, hay nhap so n >= 0');
-			writeln('--------------------------');
-		end;
-	until n >= 0;
-	writeln('--------------------');
-	tong:=0;
-	while n <> 0 do
-		begin
-			sotachra:=n mod 10;
-			tong:=tong+sotachra;
-			n:=n div 10;
-		end;
-	writeln('Tong cac chu so = ',tong);
-	readln;
-end.
+Var 
+  n,sotachra,tong: integer;
+Begin
+  Repeat
+    write('Nhap n: ');
+    read(n);
+    If n<0 Then
+      Begin
+        writeln('Ban da nhap sai, hay nhap so n >= 0');
+        writeln('--------------------------');
+      End;
+  Until n >= 0;
+  writeln('--------------------');
+  tong := 0;
+  While n <> 0 Do
+    Begin
+      sotachra := n Mod 10;
+      tong := tong+sotachra;
+      n := n Div 10;
+    End;
+  writeln('Tong cac chu so = ',tong);
+  readln;
+End.
