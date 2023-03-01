@@ -11,7 +11,7 @@ Begin
     End;
 
   For i:=1 To n - 1 Do
-    For j:=1 To (n - i - 1) Do
+    For j:=1 To (n - i) Do
       If a[j] > a[j+1] Then
         Begin
           temp := a[j];
