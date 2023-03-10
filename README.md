@@ -45,3 +45,5 @@
 - [Bài 22: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/max_arr.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra phần tử lớn nhất trong mảng.
 
 - [Bài 23: ](https://github.com/yeuxacucodon/pascal_examples/blob/main/Files/tong_mang.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình hiển thị ra tổng tất cả các phần tử trong mảng.
+
+- [Bài 24: ](./Files/bubble_sort.pas) Cho một mảng các số nguyên n phần tử arr được nhập từ bàn phím. Bạn hãy viết chương trình sắp xếp mảng theo thứ tự tăng dần
